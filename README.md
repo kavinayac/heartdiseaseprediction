@@ -23,3 +23,5 @@ Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
  Artificial Neural Network with 1 Hidden layer (Keras)
  Artificial Neural Network with 1 Hidden layer (Keras)
+ Accuracy achieved: 95% (Random Forest)
+
